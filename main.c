@@ -23,3 +23,7 @@ int main()
 
     return 0;
 }
+
+/*
+the input code for me didn't work, it may have been the c compiller that I was using. Although the code does look right, execpt it might be scanf("%d", &rows) instead of %size. 
+*/
