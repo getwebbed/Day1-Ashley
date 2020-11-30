@@ -11,7 +11,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 int main()
 {
     int size;
-    printf("Enter an integer: ");
+    printf("Please enter an integer: ");
     scanf("%d", &size );
     printf("<");
     while(size>0)
